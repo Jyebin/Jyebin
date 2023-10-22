@@ -1,3 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=100&section=header&text=&fontSize=40)
+## 🖤 JO YE BIN 🤍
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jyebin&show_icons=true&theme=buefy)
+[![yebin0322](http://mazassumnida.wtf/api/v2/generate_badge?boj={handle})](https://solved.ac/{handle})
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jyebin&show_icons=true&theme=graywhite)
+
