@@ -1,4 +1,8 @@
 ## 🖤 JO YE BIN 🤍
+
+  [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-brightgreen)](https://spring.io/projects/spring-boot)
+[![Java](https://img.shields.io/badge/Java-orange)](https://www.oracle.com/java/)
+
 매일매일 한 걸음씩 나아가는 사람이 되겠습니다!
 
   
