@@ -1,4 +1,5 @@
 ## 🖤 JO YE BIN 🤍
+<a href="[https://velog.io/@yeoonnii](https://velog.io/@y_bin/posts)"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
 
   [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-brightgreen)](https://spring.io/projects/spring-boot)
 [![Java](https://img.shields.io/badge/Java-orange)](https://www.oracle.com/java/)
