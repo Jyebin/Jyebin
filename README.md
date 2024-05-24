@@ -1,8 +1,25 @@
 ## 🖤 JO YE BIN 🤍
-<a href="[https://velog.io/@yeoonnii](https://velog.io/@y_bin/posts)"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
+<!-- 벨로그 -->
+<a href="https://velog.io/@y_bin/posts">
+    <img src="https://img.shields.io/badge/velog-20C997?style=for-the-badge&logo=velog&logoColor=white" alt="velog badge">
+</a>
 
-  [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-brightgreen)](https://spring.io/projects/spring-boot)
-[![Java](https://img.shields.io/badge/Java-orange)](https://www.oracle.com/java/)
+<!-- 스프링 -->
+<img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
+
+<!-- 스프링부트 -->
+<img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
+ <!-- 깃허브 -->
+<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+ <!-- css -->
+<img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+<!-- django -->
+<img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white">
+
+
+<img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
+
+
 
 매일매일 한 걸음씩 나아가는 사람이 되겠습니다!
 
