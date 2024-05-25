@@ -1,11 +1,19 @@
 <div align="center">
 
 <!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=FFB6C1&height=170&section=header&text=YEBIN's%20GitHub&fontSize=50&fontColor=FFFFFF" /> -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=black&height=170&section=header&text=YEBIN's%20GitHub&fontSize=50&fontColor=FFFFFF" />
 
 
-안녕하세요👋 <br>롤을 좋아하는 개발자 조예빈 입니다👩🏻‍💻<br>
-<br><br>
+### 안녕하세요👋 <br>롤을 좋아하는 개발자 조예빈 입니다👩🏻‍💻
+<br>
+
+
+<img src="https://github.com/Jyebin/Jyebin/assets/108725996/a8bf5ee4-4cc7-4314-9ac5-686ade74d380" alt="IMG_3447" width="200" height="200">
+
+
+
+<br>
+<br>
+
 
 <strong><span style="font-size: 300px;">📚Tech Stack📚</span></strong>
 
@@ -65,4 +73,6 @@
 
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jyebin&show_icons=true&theme=graywhite)
+
+[![yebin's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Jyebin&theme=xcode)](https://github.com/Jyebin/github-readme-activity-graph)
 
