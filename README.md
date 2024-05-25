@@ -1,14 +1,41 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FFB6C1&height=200&section=header&text=YEBIN'S%20GITHUB&fontSize=90&fontColor=FFFFFF" />
+<!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=FFB6C1&height=170&section=header&text=YEBIN's%20GitHub&fontSize=50&fontColor=FFFFFF" /> -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=black&height=170&section=header&text=YEBIN's%20GitHub&fontSize=50&fontColor=FFFFFF" />
 
-## 📚Tech Stack📚
+
+안녕하세요👋 <br>롤을 좋아하는 개발자 조예빈 입니다👩🏻‍💻<br>
+<br><br>
+
+<strong><span style="font-size: 300px;">📚Tech Stack📚</span></strong>
+
 
 ✨ **Platforms & Languages** ✨
-<!-- 자바 -->
-<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white"/> <!-- 스프링 --><img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white"/> <!-- 스프링부트 --><img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=springboot&logoColor=white"/> <!-- django --><img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white"/>
-<!-- MySQL --><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/> <!-- Oracle --><img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white"/>
+ <!-- 스프링 --><img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white"/> <!-- 스프링부트 --><img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=springboot&logoColor=white"/> <!-- django --><img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white"/>
+<br>
+<!-- Oracle --><img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white"/>
+<br>
+
 <!-- html --><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/> <!-- css --><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/> <!-- javascript --><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
+<div style="display: flex; align-items: center;">
+    <!-- 자바 -->
+    <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="45" height="45" style="margin-right: 10px;" />
+    <!-- AWS -->
+    <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="45" height="45" style="margin-right: 10px;" />
+    <!-- MySQL -->
+    <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="45" height="45" />
+    <!-- javascript -->
+    <!-- <img style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="45" height="45" /> -->
+    <!-- docker -->
+    <!-- <img style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="45" height="45" /> -->
+    <!-- react -->
+   <!-- <img style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="45" height="45" /> -->
+    <!-- python -->
+  <!--   <img style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="45" height="45" /> -->
+  <!-- rest -->
+  <img style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="45" height="45" />
+    
+</div>
 
 <br>
 <br>
@@ -16,8 +43,10 @@
 
 🛠️ **Tools** 🛠️
 <!-- 깃허브 -->
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/> <!-- 인텔리제이 --><img src="https://img.shields.io/badge/intelliJ%20IDEA-000000?style=flat&logo=intellijidea&logoColor=white"/> <!-- 이클립스 --><img src="https://img.shields.io/badge/eclipse%20IDE-2C2255?style=flat&logo=eclipseide&logoColor=white"/>
+<div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="41" height="41" /></div> <!-- 인텔리제이 --><img src="https://img.shields.io/badge/intelliJ%20IDEA-000000?style=flat&logo=intellijidea&logoColor=white"/> <!-- 이클립스 --><img src="https://img.shields.io/badge/eclipse%20IDE-2C2255?style=flat&logo=eclipseide&logoColor=white"/>
 
+
+<br>
 
 <br>
 
