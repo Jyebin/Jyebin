@@ -3,12 +3,11 @@
 <!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=FFB6C1&height=170&section=header&text=YEBIN's%20GitHub&fontSize=50&fontColor=FFFFFF" /> -->
 
 
-### 안녕하세요👋 <br>롤을 좋아하는 개발자 조예빈 입니다👩🏻‍💻
+### 안녕하세요👋 <br>도마뱀 '미노스'와 함께 사는 <br> 개발자 조예빈 입니다👩🏻‍💻
 <br>
 
 
-<img src="https://github.com/Jyebin/Jyebin/assets/108725996/a8bf5ee4-4cc7-4314-9ac5-686ade74d380" alt="IMG_3447" width="200" height="200">
-
+<img src="https://github.com/Jyebin/Jyebin/assets/108725996/d30eea24-9d7b-4404-b7c5-ccf0745dce42" alt="미노스와 찍은 셀카" width="200" height="200">
 
 
 <br>
@@ -64,6 +63,7 @@
 <a href="https://velog.io/@y_bin/posts">
     <img src="https://img.shields.io/badge/velog-20C997?style=flat&logo=velog&logoColor=white" alt="velog badge"/>
 </a>
+
 
 <br>
 <br>
