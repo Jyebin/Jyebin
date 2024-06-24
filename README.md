@@ -45,16 +45,15 @@
 </div>
 
 <br>
-<br>
-<br>
+
 
 🛠️ **Tools** 🛠️
 <!-- 깃허브 -->
-<div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="41" height="41" /></div> <!-- 인텔리제이 --><img src="https://img.shields.io/badge/intelliJ%20IDEA-000000?style=flat&logo=intellijidea&logoColor=white"/> <!-- 이클립스 --><img src="https://img.shields.io/badge/eclipse%20IDE-2C2255?style=flat&logo=eclipseide&logoColor=white"/>
+<div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="41" height="41" /></div> <!-- 인텔리제이 --><img src="https://img.shields.io/badge/intelliJ%20IDEA-000000?style=flat&logo=intellijidea&logoColor=white"/><br><!-- 이클립스 --><img src="https://img.shields.io/badge/eclipse%20IDE-2C2255?style=flat&logo=eclipseide&logoColor=white"/>
 
 
 <br>
-
+<br>
 <br>
 
 
