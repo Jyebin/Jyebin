@@ -6,9 +6,10 @@
 ### 안녕하세요👋 <br>도마뱀 '미노스'와 함께 사는 <br> 개발자 조예빈 입니다👩🏻‍💻
 <br>
 
-
 <img src="https://github.com/Jyebin/Jyebin/assets/108725996/d30eea24-9d7b-4404-b7c5-ccf0745dce42" alt="미노스와 찍은 셀카" width="200" height="200">
-
+<br><br>
+"컴퓨터가 이해하는 코드는 바보도 작성할 수 있다. 사람이 이해하도록 작성하는 프로그래머가 진정한 실력자다. <br>   -마틴 파울러"
+<br>
 
 <br>
 <br>
