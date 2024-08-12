@@ -15,7 +15,7 @@
 <br>
 
 
-<strong><span style="font-size: 300px;">📚Tech Stack📚</span></strong>
+<strong><span style="font-size: 300px;">📚 Tech Stack 📚</span></strong>
 
 
 ✨ **Platforms & Languages** ✨
