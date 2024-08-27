@@ -37,7 +37,7 @@
     <!-- docker -->
     <!-- <img style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="45" height="45" /> -->
     <!-- react -->
-   <!-- <img style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="45" height="45" /> -->
+   <img style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="45" height="45" /> 
     <!-- python -->
   <!--   <img style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="45" height="45" /> -->
   <!-- rest -->
