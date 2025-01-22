@@ -6,13 +6,15 @@
 ### 안녕하세요👋 <br>도마뱀 '미노스'와 함께 사는 <br> 개발자 조예빈 입니다👩🏻‍💻
 <br>
 
-<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=Jyebin&utm_content=farm">
-<img
-  src="https://render.gitanimals.org/farms/Jyebin"
-  width="600"
-  height="300"
-/>
+
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=Jyebin&utm_content=line">
+  <img
+    src="https://render.gitanimals.org/lines/Jyebin?pet-id=669776119850133872"
+    width="150"
+    height="150"
+  />
 </a>
+  
 
 <br><br>
 "컴퓨터가 이해하는 코드는 바보도 작성할 수 있다. 사람이 이해하도록 작성하는 프로그래머가 진정한 실력자다. <br>   -마틴 파울러"
