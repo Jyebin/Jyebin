@@ -5,36 +5,34 @@
 
 ### 안녕하세요👋 <br>도마뱀 '미노스'와 함께 사는 <br> 개발자 조예빈 입니다👩🏻‍💻
 <br>
-
-
-
-<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=Jyebin&utm_content=line">
-  <img
-    src="https://render.gitanimals.org/lines/Jyebin?pet-id=669000749332874743"
-    width="150"
-    height="150"
-  />
-</a>
-  
-  
-
 <br><br>
-"컴퓨터가 이해하는 코드는 바보도 작성할 수 있다. 사람이 이해하도록 작성하는 프로그래머가 진정한 실력자다. <br>   -마틴 파울러"
-<br>
+
+
+
+> **"컴퓨터가 이해하는 코드는 바보도 작성할 수 있다.  
+> 사람이 이해하도록 작성하는 프로그래머가 진정한 실력자다."**  
+> — *마틴 파울러 (Martin Fowler)*  
+>  
+> _"Any fool can write code that a computer can understand.  
+> Good programmers write code that humans can understand."_  
+> — *Martin Fowler*
+
 
 <br>
-    
-<br>
-
-
-
+<br><br>
 <strong><span style="font-size: 300px;">📚 Tech Stack 📚</span></strong>
 
 
 ✨ **Platforms & Languages** ✨
  <!-- 스프링 --><img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white"/> <!-- 스프링부트 --><img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=springboot&logoColor=white"/> <!-- django --><img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white"/>
+<!-- .NET -->
+<img src="https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white"/>
 <br>
 <!-- Oracle --><img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white"/>
+<!-- MySQL -->
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
+<!-- MSSQL -->
+    <img src="https://img.shields.io/badge/MSSQL-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white"/>
 <br>
 
 <!-- html --><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/> <!-- css --><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/> <!-- javascript --><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
@@ -44,7 +42,8 @@
     <!-- AWS -->
     <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="45" height="45" style="margin-right: 10px;" />
     <!-- MySQL -->
-    <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="45" height="45" />
+<!--     <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="45" height="45" />
+     -->
     <!-- javascript -->
     <!-- <img style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="45" height="45" /> -->
     <!-- docker -->
@@ -63,7 +62,16 @@
 
 🛠️ **Tools** 🛠️
 <!-- 깃허브 -->
-<div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="41" height="41" /></div> <!-- 인텔리제이 --><img src="https://img.shields.io/badge/intelliJ%20IDEA-000000?style=flat&logo=intellijidea&logoColor=white"/><br><!-- 이클립스 --><img src="https://img.shields.io/badge/eclipse%20IDE-2C2255?style=flat&logo=eclipseide&logoColor=white"/>
+<div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="41" height="41" /></div> 
+<!-- 인텔리제이 --><img src="https://img.shields.io/badge/intelliJ%20IDEA-000000?style=flat&logo=intellijidea&logoColor=white"/>
+<br>
+<!-- 이클립스 --><img src="https://img.shields.io/badge/eclipse%20IDE-2C2255?style=flat&logo=eclipseide&logoColor=white"/>
+<br>
+<!-- Visual Studio -->
+<img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat&logo=visualstudio&logoColor=white"/>
+<br>
+<!-- VS Code -->
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white"/>
 
 
 
@@ -73,11 +81,10 @@
 
 
 🎨 **Portfolio** 🎨
-<!-- 벨로그 -->
-<a href="https://velog.io/@y_bin/posts">
-    <img src="https://img.shields.io/badge/velog-20C997?style=flat&logo=velog&logoColor=white" alt="velog badge"/>
+<!-- 티스토리 -->
+<a href="https://yebin0322.tistory.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=blogger&logoColor=white" alt="tistory badge"/>
 </a>
-
 
 <br>
 <br>
